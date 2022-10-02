@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "H2u2J5BUWUtnLwzvfGCmaEruYxIz9MZ1x/N8ImE3BARBP5thUm9sC1pWjApiAn9meOUa8PDjNka1aQRhUaIcUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\CodeAcademy\\ASP.NET Core\\Asp.net intro\\Asp.net intro\\Asp.net intro.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}

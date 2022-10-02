@@ -1,0 +1,30 @@
+C:\Users\HP\Desktop\CodeAcademy\ASP.NET Core\Asp.net intro\Asp.net intro\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\HP\Desktop\CodeAcademy\ASP.NET Core\Asp.net intro\Asp.net intro\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\HP\Desktop\CodeAcademy\ASP.NET Core\Asp.net intro\Asp.net intro\bin\Debug\netcoreapp3.1\Asp.net intro.exe
+C:\Users\HP\Desktop\CodeAcademy\ASP.NET Core\Asp.net intro\Asp.net intro\bin\Debug\netcoreapp3.1\Asp.net intro.deps.json
+C:\Users\HP\Desktop\CodeAcademy\ASP.NET Core\Asp.net intro\Asp.net intro\bin\Debug\netcoreapp3.1\Asp.net intro.runtimeconfig.json
+C:\Users\HP\Desktop\CodeAcademy\ASP.NET Core\Asp.net intro\Asp.net intro\bin\Debug\netcoreapp3.1\Asp.net intro.runtimeconfig.dev.json
+C:\Users\HP\Desktop\CodeAcademy\ASP.NET Core\Asp.net intro\Asp.net intro\bin\Debug\netcoreapp3.1\Asp.net intro.dll
+C:\Users\HP\Desktop\CodeAcademy\ASP.NET Core\Asp.net intro\Asp.net intro\bin\Debug\netcoreapp3.1\Asp.net intro.pdb
+C:\Users\HP\Desktop\CodeAcademy\ASP.NET Core\Asp.net intro\Asp.net intro\obj\Debug\netcoreapp3.1\Asp.net intro.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\CodeAcademy\ASP.NET Core\Asp.net intro\Asp.net intro\obj\Debug\netcoreapp3.1\Asp.net intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\CodeAcademy\ASP.NET Core\Asp.net intro\Asp.net intro\obj\Debug\netcoreapp3.1\Asp.net intro.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\CodeAcademy\ASP.NET Core\Asp.net intro\Asp.net intro\obj\Debug\netcoreapp3.1\Asp.net intro.AssemblyInfo.cs
+C:\Users\HP\Desktop\CodeAcademy\ASP.NET Core\Asp.net intro\Asp.net intro\obj\Debug\netcoreapp3.1\Asp.net intro.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\CodeAcademy\ASP.NET Core\Asp.net intro\Asp.net intro\obj\Debug\netcoreapp3.1\Asp.net intro.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\CodeAcademy\ASP.NET Core\Asp.net intro\Asp.net intro\obj\Debug\netcoreapp3.1\staticwebassets\Asp.net intro.StaticWebAssets.Manifest.cache
+C:\Users\HP\Desktop\CodeAcademy\ASP.NET Core\Asp.net intro\Asp.net intro\obj\Debug\netcoreapp3.1\Asp.net intro.RazorTargetAssemblyInfo.cache
+C:\Users\HP\Desktop\CodeAcademy\ASP.NET Core\Asp.net intro\Asp.net intro\obj\Debug\netcoreapp3.1\Asp.net intro.dll
+C:\Users\HP\Desktop\CodeAcademy\ASP.NET Core\Asp.net intro\Asp.net intro\obj\Debug\netcoreapp3.1\Asp.net intro.pdb
+C:\Users\HP\Desktop\CodeAcademy\ASP.NET Core\Asp.net intro\Asp.net intro\obj\Debug\netcoreapp3.1\Asp.net intro.genruntimeconfig.cache
+C:\Users\HP\Desktop\CodeAcademy\ASP.NET Core\Asp.net intro\Asp.net intro\bin\Debug\netcoreapp3.1\Asp.net intro.Views.dll
+C:\Users\HP\Desktop\CodeAcademy\ASP.NET Core\Asp.net intro\Asp.net intro\bin\Debug\netcoreapp3.1\Asp.net intro.Views.pdb
+C:\Users\HP\Desktop\CodeAcademy\ASP.NET Core\Asp.net intro\Asp.net intro\obj\Debug\netcoreapp3.1\Asp.net intro.RazorAssemblyInfo.cache
+C:\Users\HP\Desktop\CodeAcademy\ASP.NET Core\Asp.net intro\Asp.net intro\obj\Debug\netcoreapp3.1\Asp.net intro.RazorAssemblyInfo.cs
+C:\Users\HP\Desktop\CodeAcademy\ASP.NET Core\Asp.net intro\Asp.net intro\obj\Debug\netcoreapp3.1\Asp.net intro.TagHelpers.input.cache
+C:\Users\HP\Desktop\CodeAcademy\ASP.NET Core\Asp.net intro\Asp.net intro\obj\Debug\netcoreapp3.1\Asp.net intro.TagHelpers.output.cache
+C:\Users\HP\Desktop\CodeAcademy\ASP.NET Core\Asp.net intro\Asp.net intro\obj\Debug\netcoreapp3.1\Asp.net intro.RazorCoreGenerate.cache
+C:\Users\HP\Desktop\CodeAcademy\ASP.NET Core\Asp.net intro\Asp.net intro\obj\Debug\netcoreapp3.1\Asp.net intro.RazorTargetAssemblyInfo.cs
+C:\Users\HP\Desktop\CodeAcademy\ASP.NET Core\Asp.net intro\Asp.net intro\obj\Debug\netcoreapp3.1\Asp.net intro.Views.pdb
+C:\Users\HP\Desktop\CodeAcademy\ASP.NET Core\Asp.net intro\Asp.net intro\obj\Debug\netcoreapp3.1\Asp.net intro.csproj.CopyComplete
+C:\Users\HP\Desktop\CodeAcademy\ASP.NET Core\Asp.net intro\Asp.net intro\obj\Debug\netcoreapp3.1\Razor\Views\Home\Html.cshtml.g.cs
